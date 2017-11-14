@@ -16,7 +16,7 @@
 #
 
 
-"""Convertion speech via the Google CloudSpeech recognizer to morse."""
+"""Converting speech via the Google CloudSpeech recognizer to morse."""
 
 import aiy.audio
 import aiy.cloudspeech
